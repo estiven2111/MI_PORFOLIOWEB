@@ -137,8 +137,8 @@ export default {
   name: "🛡️ DotacionesNW – Página de Seguridad Industrial",
   description:
     "I developed **DotacionesNW**, a website tailored for the company’s CEO to enhance online visibility and attract more potential clients 👥. The site includes key sections such as the company’s **vision** and **mission** 🎯, and allows direct contact through **WhatsApp** 📲 and **email** 📧. Users can browse a **product catalog** 🛠️ focused on **industrial safety**, making it easy to purchase and access detailed information. The design prioritizes an intuitive user experience and highlights products in an attractive way to boost sales and increase brand presence in the market.",
-    url_repository_Backend: "https://github.com/estiven2111",
-    url_repository_Frontend: "https://github.com/estiven2111",
+    url_repository_Backend: "https://github.com/estiven2111/DotacionesNW",
+    url_repository_Frontend: "https://github.com/estiven2111/DotacionesNW",
   url_deploy: "https://dotacionesnw.com/",
   img: "https://res.cloudinary.com/draxxv99e/video/upload/v1745100660/IMAGENES%20WEBS/DOTACIONESNW/DotacionesNW_sf7oj5.mp4",
 },

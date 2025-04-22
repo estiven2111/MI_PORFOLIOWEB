@@ -34,8 +34,8 @@
   how I can help bring your technological vision to life!
         </p>
         <div class="container-btns">
-          <router-link to="/ESTIVEN/contact-me">Hire Me!</router-link>
-          <router-link to="/ESTIVEN/cv">Check out my dope CV, buddy!</router-link>
+          <router-link to="/contact-me">Hire Me!</router-link>
+          <router-link to="/cv">Check out my dope CV, buddy!</router-link>
         </div>
       </div>
     </div>
